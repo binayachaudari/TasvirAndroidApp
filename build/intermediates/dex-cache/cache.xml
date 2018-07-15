@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/okio-1.14.0_3995883880dca777c169128f40388823d4347aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/gson-2.8.5_21a6bce18a1f1700ecf73073d3d13b7014af2851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/7393dcb6caef9b27cb09e42312399dc88d3bdc8f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_221c30c0e6cefd4847453a737c0872b392409729.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/98f06d7a3214154fb852a58bc816abfd9867d49b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_1ac972d40bf04bfceff5638a0d09142b0a22dc41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/699e216b8d336264ce56b8b7550dde392f755ac7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0d6df4057d1620a785f5bd2e69dd0d7866f3613c">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_026edeba5333aeb59dbcfad4a575f63b56cc576e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_9ebaff1f0d41d221c153bdd6ebe75658e97458db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/703b949a4a8238d981999406086ec84cd5986168/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4a77dd97f559e5fdc641380539d31a71f2b0470c">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_b997d273f2557418a883c3cd6b51cf60cb3dd342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/fc8078fe991ca0fc39d468ae473e772b6493b210/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_61e568cb10f02a6c7310673712f786af3ebd3b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_581bbdaa9fefbdd1adf6a26cb8122a7a4d51563f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Binaya/.android/build-cache/f2aa38e193e2aefae90bbd948fda844fbf9f74c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/Users/Binaya/AndroidStudioProjects/Tasvir/app/build/intermediates/pre-dexed/debug/classes_2c8c92ca3eee6e0776a32e9197cf2a35343ff7d0.jar" />
+    </item>
+
+</items>
